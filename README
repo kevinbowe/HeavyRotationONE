@@ -1,0 +1,5 @@
+July 5, 2011
+---
+This project is based on "The Big Nerd Ranch Guide: iPhone Programming Guide".  The original application was based on xCode 3.x. This version is based on xCode 4.  The functionality is identical and every effort has been made to generate the code exactly as implemented in the text.  Please read comments in the code.  They may be helpful.
+
+This code has been deployed to an iPhone 4 and works sucessfully.
